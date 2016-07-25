@@ -1,0 +1,16 @@
+F:\Projects\C#\WhiteCatVote\WhiteCatVote\bin\Debug\WhiteCatVote.exe.config
+F:\Projects\C#\WhiteCatVote\WhiteCatVote\bin\Debug\WhiteCatVote.exe
+F:\Projects\C#\WhiteCatVote\WhiteCatVote\bin\Debug\WhiteCatVote.pdb
+F:\Projects\C#\WhiteCatVote\WhiteCatVote\obj\Debug\WhiteCatVote.csprojResolveAssemblyReference.cache
+F:\Projects\C#\WhiteCatVote\WhiteCatVote\obj\Debug\WhiteCatVote.Form1.resources
+F:\Projects\C#\WhiteCatVote\WhiteCatVote\obj\Debug\WhiteCatVote.Properties.Resources.resources
+F:\Projects\C#\WhiteCatVote\WhiteCatVote\obj\Debug\WhiteCatVote.csproj.GenerateResource.Cache
+F:\Projects\C#\WhiteCatVote\WhiteCatVote\obj\Debug\WhiteCatVote.exe
+F:\Projects\C#\WhiteCatVote\WhiteCatVote\obj\Debug\WhiteCatVote.pdb
+F:\Projects\C#\WhiteCatVote\WhiteCatVote\bin\Debug\Newtonsoft.Json.dll
+F:\Projects\C#\WhiteCatVote\WhiteCatVote\bin\Debug\Newtonsoft.Json.xml
+F:\Projects\C#\WhiteCatVote\WhiteCatVote\bin\Debug\System.Web.Http.dll
+F:\Projects\C#\WhiteCatVote\WhiteCatVote\bin\Debug\System.Net.Http.Formatting.dll
+F:\Projects\C#\WhiteCatVote\WhiteCatVote\bin\Debug\System.Web.Http.xml
+F:\Projects\C#\WhiteCatVote\WhiteCatVote\bin\Debug\System.Net.Http.Formatting.xml
+F:\Projects\C#\WhiteCatVote\WhiteCatVote\obj\Debug\WhiteCatVote.csproj.WhiteCatVote.exe.config
